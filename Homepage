@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+<div class="jumbotron">
+	<div class="container">
+<h1 class="special_one">  Valic Development </h1> 
+ 
+<style type="text/css">
+   h1.special_one
+   {
+     color:#090;
+	 font-size:3em;
+	 text-align:center;
+	 font-weight:100;
+	 font-family:"helvetica neue", "Helvetica", arial, sans-serif;
+	 background-color: black;
+	 border-height: 30px;
+	 border-style: solid;
+	 padding-bottom: 10px;
+	 padding-top: 10px;
+	 font-weight: bold;
+   }
+   
+  body {
+	background-color:
+	#b0c4de;
+	}
+</style>
+	</div>
+</div>
+	</head>
+	
+  <body>
+<p>  This is the begining of a new company called Valic Development. Our aim is to be the best in Web development and programming. Soon we will begin to develop apps for Apple and Android smart phones.</p>
+
+<div class="nav">
+	<div class="container">
+<ul>
+  <li><button><a href="https://www.mirantis.com/wp-content/uploads/2015/04/one-of-us.jpg"> click here to join </a></button></li> 
+  <li><button><a href="C:\Users\HarbourSouth\Desktop\Valic Dev\infoamtion .html"> click here to learn more</a></button></li> 
+  <li><button><a href="http://nedroid.com/shopimages/partycat-partytime-med.jpg"> click here to party</a></button></li> 
+</ul>
+	</div>
+</div> 
+
+ 
+   <p> this is where the magic happens </p>
+   <img src="http://tensss.com/wp-content/uploads/2014/03/office-lighting-166.jpg" style="width:304px;length:228px;">
+   
+   <p id="p1id" name="first" class="pfirstclass" style="color:#ff0000;"title="pretty cool eh?">
+	hover to see something cool
+   </p>
+   	
+	<button type="button" onclick="document.getElementById('clock').innerHTML= Date()"> Click Me! </button>
+	<p Id="clock"> </p>
+	
+	<p> click the button to display a confirm box.</p>
+	<button
+	OnClick="MyFunction()">Hey, guess what?</button>
+	<script>
+	function MyFunction() {
+			confirm("Cory's a fucking Jew");	
+	}
+   </script>
+   
+</body>
+   
+<div class="special">
+	<div class="container">
+  <em> Property of Valic Development </em>
+   
+   	<style>
+   div.special
+   {
+	float:right; 
+	bottom:30px;
+	background-color:#ff0000;
+	color:#fff;
+   }
+</style> 
+	</div>
+</div>
+
+</html>
