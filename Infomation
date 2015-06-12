@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<style type="text/css">
+   p.special_one
+   {
+     color:#090;
+	 font-size:2em;
+	 font-weight:100;
+	 text-align:center-top; 
+	 font-family:"Arial", "myriad web pro", Arial, serif;
+   }
+</style>
+<p class="special_one">Valic Development</p>
+<body>
+<p> we are a small yet to be company that aim to be the best in this town and help it prosper in its time</p>
+<p> we can get your small business out there more than it already is with our great ideas and our fresh youth innovations </p>
+<ul>
+  <li> Our team consists of
+  <ul>
+    <li> Derick Deveau</li>
+	<li> Valkyrie Hattie</li>
+	<li> Cory McKay</li>
+	<li> Job Fiander</li>
+   </ul>
+  </li>
+</ul>
