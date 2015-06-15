@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> ValiC Development </title>
+</head>
+<style>
+
+.border1 { 
+    width: 417px;
+    padding: 25px;
+    border: 1px solid #141414;
+    margin: 20px;
+    background-color: #1E1E1E;
+}
+.button {
+background-color: #505050;
+color: #E8FFFF;
+border: 1px solid #6E6E6E;
+padding: 8px;
+width: 80;
+height: 32;
+
+}
+.homebutton {
+    position: absolute;
+    left:46px;
+    top: 82.5px;
+    width: 300%;
+}
+.staffbutton {
+    position: absolute;
+    left:164px;
+    top: 82.5px;
+    width: 300%;
+}
+.homebutton3 {
+    position: absolute;
+    left:282px;
+    top: 82.5px;
+    width: 300%;
+}
+.dateandtime {
+    position: absolute;
+    right:32px;
+    top: 75px;
+}
+.style3 {
+    position: absolute;
+    left:350px;
+    top: 530px;
+}
+.style2 {
+    position: absolute;
+    right: 200px;
+    top: 192px;
+    padding: 25px;
+    border: 1px solid #141414;
+    margin: 20px;
+    background-color: #1E1E1E;
+}
+.lotus {
+color: #E8FFFF;
+font-family: Palatino Linotype,Arial Bold,Gadget,sans-serif;
+    background-color: #1E1E1E;
+    border: 1.9px;
+    padding: 10px;
+    margin: -18px;
+    height: 60
+}
+.greenborder {
+color: #E8FFFF;
+font-family: Palatino Linotype,Arial Bold,Gadget,sans-serif;
+    background-color: #006200;
+    border: 30px
+    padding: 25px;
+    margin: -10px;
+    height: 40px;
+    float: 
+}
+</style>
+<body
+bgcolor="#FFFFD0"
+<h1 class="lotus" style="border-style:solid; border-color:#282828;"> <center> <big> <strong> Valic Development </strong> </center> </h1>
+<div class="greenborder">
+<h6> <font color="#E5E4E2"> <center> <em> Valkyrie Hattie -  Derick Deveau - Job Fiander - Cory McKay </center> 
+</h6>
+</div>
+<ul>
+<div class="homebutton">
+<li{ display: inline-block; }> <button class="button"> <a href ="https://www.google.ca/"> <font color="#E8FFFF"> Home </a> </button> </li> </div>
+<div class="staffbutton">
+<li{ display: inline-block; }> <button class="button"> <a href ="https://www.google.ca/"> <font color="#E8FFFF"> Contact </a> </button> </li> </div>
+<div class="homebutton3">
+<li{ display: inline-block; }> <button class="button"> <a href ="https://www.google.ca/"> <font color="#E8FFFF"> Our Team </a> </button> </li> </div>
+</ul>
+<div class="border1">
+<p> <font color="#C8C8C8"> <strong> Valic Dev. is a new business in the progess of being created. </strong> </p>
+
+<img src="https://cdn.psychologytoday.com/sites/default/files/blogs/50738/2011/11/80150-70782.jpg" width="414">
+<p> <font color="#C8C8C8"> We together, are a small business that studies <span> <a href="https://www.google.ca/"> HTML</a></span>, CSS, and </p>
+
+<p> <font color="#C8C8C8"> JavaScript language. We make websites for different companies. </p>
+<p> <font color="#C8C8C8"> <span style="color:#E8FFFF">Valic Development </span> is how we are known. </p>
+</div>
+<div class="style3">
+<img src="http://digitalwebmanager.com/wp-content/uploads/2014/10/Small-Business.jpg" width="56" height="52">
+</div>
+<div class="style2"> 
+<img
+{filter: alpha (opacity=100); opacity: 1.0;}
+src="http://d225fqn1pkg6mt.cloudfront.net/wp-content/uploads/2013/09/What_business_to_start_2013_crop.jpg" alt="opportunity" width="530" height"528">
+</div>
+<div class="dateandtime">
+<button type="button"
+onclick="document.getElementById('clock').innerHTML= Date()">
+Click Here for Date and Time! </button>
+<p style="color:white" id="clock"> </p>
+</div>
+<div class="special">
+	<div class="container">
+  <em> Property of Valic Development </em>
+   
+   	<style>
+   div.special
+   {
+	float:right; 
+	bottom:30px;
+	background-color:#ff0000;
+	color:#fff;
+   }
+</style> 
+	</div>
+</div>
+</body>
+</html>
+
